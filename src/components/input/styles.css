@@ -1,0 +1,20 @@
+.input_container{
+  width: 70%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #40414F;
+  border-radius: 5px;
+  padding: 10px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, .4);
+  margin-top: 40px;
+}
+
+input {
+  width: 100%;
+  border: none;
+  outline: none;
+  background: none;
+  color: #fcfcfc;
+  font-size: 1.2rem;
+}
