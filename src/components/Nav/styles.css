@@ -8,7 +8,7 @@
   color: #ffffff;
 }
 
-button{
+button {
   display: flex;
   align-items: center;
   gap:  0.75rem;
@@ -25,11 +25,11 @@ button{
   height: 46px;
 }
 
-button:hover{
+button:hover {
   background-color: #2B2C2F;
 }
 
-.icon{
+.icon {
   display: flex;
   align-items: center;
   height: 100%;
@@ -41,7 +41,7 @@ button:hover{
   gap: 0.5rem;
 }
 
-.chat_item{
+.chat_item {
   display: flex;
   gap:  0.75rem;
   padding: 0.75rem;
@@ -52,11 +52,11 @@ button:hover{
   position: relative;
 }
 
-.chat_item:hover{
+.chat_item:hover {
   background-color: #2A2B32;
 }
 
-.shadow{
+.shadow {
   width: 2rem;
   height: 100%;
   background: linear-gradient(90deg, rgba(0,0,0,0) 0%,rgba(32, 33, 35, 1) 100%);
