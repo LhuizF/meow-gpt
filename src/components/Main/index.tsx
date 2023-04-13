@@ -12,7 +12,7 @@ const texts = [
   'Eum ratione fuga non, nisi sit, facere minima placeat commodi aliquam, itaque sapiente',
   'Lorem ipsum dolor sit amet consectetur, adipisicing elit',
   'Error fugit, mollitia ad recusandae omnis facilis saepe placeat?',
-  'Eum ratione fuga non, nisi sit, facere minima placeat commodi aliquam, itaque sapiente',
+  'Eum ratione fuga non, nisi sit, facere minima placeat commodi aliquam, itaque sapiente'
 ];
 
 const Main = () => {

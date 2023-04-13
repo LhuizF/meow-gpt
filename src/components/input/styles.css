@@ -6,9 +6,11 @@
   justify-content: center;
   border: 1px solid #40414F;
   border-radius: 5px;
-  padding: 10px;
   box-shadow: 0 0 12px rgba(0, 0, 0, .4);
   margin-top: 40px;
+  position: absolute;
+  bottom: 40px;
+  background-color: #40414F;
 }
 
 input {
@@ -18,4 +20,27 @@ input {
   background: none;
   color: #fcfcfc;
   font-size: 1.2rem;
+  background-color: #40414F;
+  padding: 10px;
+}
+
+.send_button_container{
+  background-color: #40414F;
+  width: 46px;
+  height: 42px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.send_button{
+  cursor: pointer;
+  /* background-color: red; */
+  height: 18px;
+  padding: 2px  5px;
+  border-radius: 6px;
+}
+
+.send_button:hover{
+  background-color: #202123;
 }
